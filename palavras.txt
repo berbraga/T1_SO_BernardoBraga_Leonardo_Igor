@@ -1,5 +1,4 @@
 16 60
-
 runkffxscslvqwvtvfolwymmxprocessoslkqoifheurjzqbdlpybntwiblv 
 xjhjguvykdfrjzltbbweoldpyiymizzdyinjqjfoukvluuypvancozhgzfuk 
 htphdcttoyjiketgysvwujakkphslomvxhlfmpyfdyqniuhpvbmtxvtjhact 
@@ -16,7 +15,6 @@ ydojieqwsadpcahtistxonqeemnsrvjzvmphwuxtociqcpkmjfmzsedmzrsr
 indklrzsotphhurayiklurxtjdzkurefhhpsyokmkbvtvotuzfhtweoihpse 
 hwlqdaaiequsavoutenpdvwyrcnzjespnqadwcnathstfipanfpqalrrngry 
 thrxfdsklqybqdxvrzoasjfabfpgwiihzbufuvrflpjbtgykimmaysczzsfw 
-
 threads 
 arquivos 
 sinais 
