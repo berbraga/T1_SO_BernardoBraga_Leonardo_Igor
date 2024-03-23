@@ -7,9 +7,9 @@ int main()
     PosicaoDirecao posicoes[MAX]; // Array para armazenar a posição e direção das palavras encontradas
 
     // Nome do arquivo de entrada
-    char nomeArquivoEntrada[] = "./cacapalavras.txt";
+    char nomeArquivoEntrada[] = "./palavras.txt";
     // Nome do arquivo de saída
-    char nomeArquivoSaida[] = "./saida2.txt";
+    char nomeArquivoSaida[] = "./saida.txt";
 
     // Lendo os dados do arquivo de entrada
     lerDados(nomeArquivoEntrada, matriz, &linhas, &colunas, palavras, &qtd_palavras);
